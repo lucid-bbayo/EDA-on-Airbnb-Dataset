@@ -80,5 +80,5 @@ The analysis provided valuable insights into Airbnb listings and highlighted tre
    ```
 3. Run the Python code provided in the Jupyter Notebook or script file.
 
-**Author**: Basit Adebayo Tiamiyu  
+**Author**: [Basit Adebayo Tiamiyu](https://github.com/lucid-bbayo/)
 **Date**: February 2025
